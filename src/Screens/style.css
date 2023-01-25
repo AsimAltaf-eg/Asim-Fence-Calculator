@@ -1,0 +1,35 @@
+.body{
+    background-color: #f2f2f2;
+}
+
+.text{
+    display: inline-flex;
+    justify-content: right;
+    align-items: right;
+    font-size: 20px;
+    font-weight: bolder;
+    color: red;
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}
+
+.textt{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    font-size: 20px;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}
